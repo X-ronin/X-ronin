@@ -1,5 +1,5 @@
 ### Hello 👋
-Hi, I`m a student of programming and now I'm studying Linux, Android and Shell Script
+Hi, I`m a student of programming and now I'm studying Linux,Android,Lua and Shell Script
 And that's it.
 <div align="center">
   <a href="https://github.com/X-ronin">
